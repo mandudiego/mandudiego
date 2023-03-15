@@ -4,7 +4,8 @@
 <div justify-content="center"> 
   • Seja bem-vindo(a)!<br> 
   • Sou um Desenvolvedor Back-End, atualmente focado em Python. <br>
-  • Tenho conhecimentos básicos em Front-End com: HTML5, CSS e JavaScript.
+  • Tenho conhecimentos básicos em Front-End com: HTML5, CSS e JavaScript. <br>
+  • Em constante aprendizado! 
 </div>
 <p>
 <!-- <div align="center">  
