@@ -31,6 +31,7 @@ JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
 <h2> Sobre mim ⚙️</h2>
 <div>
 • Sou graduando em Sistemas de Informação. 🧑🏻‍🔬 <br>
+• Resido em Paulínia - SP, região de Campinas. 📍
 • Minhas principais características são a facilidade de aprendizado, comunicação e resolução de problemas. 📚  <br>
 • Meus hobbies incluem ouvir música, assistir a filmes e praticar esportes. 🎸⚽ <br>
 </div>
