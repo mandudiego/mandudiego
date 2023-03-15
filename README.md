@@ -1,9 +1,12 @@
 <h1 align="center"> Olá! Meu nome é Diego Barreiro! 👋 </h1>
 
 <h2 align="center"> Sou um Desenvolvedor Back-End! 🖥️ </h2>
-<div justify-content="center" align="center"> Seja bem-vindo(a)! <p>Sou um Desenvolvedor Back-End, atualmente focado em Python. Entretanto também tenho conhecimentos básicos em Front-End com: HTML, CSS e JavaScript.</p> </div>
+<div justify-content="center" align="center"> Seja bem-vindo(a)! Sou um Desenvolvedor Back-End, atualmente focado em Python. <p>Tenho conhecimentos básicos em Front-End com: HTML5, CSS e JavaScript.</p> </div>
+<p>
+<div align="center"> <a href="https://www.linkedin.com/in/diego-mandu0202/">Acesse meu LinkedIn!</a> </div></p>
+<br>
+<h2 align="center"> Skills 🖥️ </h2>
 
-<div align="center"> <a href="https://www.linkedin.com/in/diego-mandu0202/">Acesse meu LinkedIn!</a> </div>
 <!--
 **mandudiego/mandudiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
