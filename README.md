@@ -3,7 +3,7 @@
 <h2> Sou um Desenvolvedor Back-End! 🖥️ </h2>
 <div justify-content="center"> 
   • Seja bem-vindo(a)!<br> 
-  • Sou um Desenvolvedor Back-End, atualmente focado em Python. <br>
+  • Desenvolvedor Back-End em formação! <br>
   • Tenho conhecimentos básicos em Front-End com: HTML5, CSS e JavaScript. <br>
   • Em constante aprendizado! 
 </div>
