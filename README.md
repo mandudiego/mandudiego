@@ -3,7 +3,7 @@
 <h2> Sou um Desenvolvedor Back-End em formação! 🖥️ </h2>
 <div justify-content="center"> 
   • Seja bem-vindo(a)!<br> 
-  • Dev Back-End com foco em Python. <br>
+  • Dev Back-End com foco em Java. <br>
   • Tenho conhecimentos básicos em Front-End com: HTML5, CSS e JavaScript. <br>
   • Em constante aprendizado! 
 </div>
@@ -16,8 +16,9 @@
 <br>
 <h2> Skills 🖥️ </h2>
 <div>
-JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
+Java • JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
   <br>
+<img height= "50rem" alt="Java" src="" />
 <img height= "50rem" alt="JavaScript" src="https://user-images.githubusercontent.com/109265005/221436214-92d2f3aa-215c-4501-acab-23c3b6aff1cd.svg" />
 <img height= "50rem" alt="NodeJS" src="https://user-images.githubusercontent.com/109265005/221436733-fb3cae0c-8a0f-4c08-bd2a-6743ac439fe3.svg" />
 <img height= "50rem" alt="CSS3" src="https://user-images.githubusercontent.com/109265005/221436667-7649df5e-77ef-4843-8902-bc6588e1cacd.svg" />
