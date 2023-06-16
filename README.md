@@ -18,7 +18,7 @@
 <div>
 Java • JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
   <br>
-<img height= "50rem" alt="Java" src="![image](https://github.com/mandudiego/mandudiego/assets/123334475/a0539a76-0e08-48f3-a9a7-2ab27fbe4910)" />
+<img height= "50rem" alt="Java">![image](https://github.com/mandudiego/mandudiego/assets/123334475/a0539a76-0e08-48f3-a9a7-2ab27fbe4910)<img/>
 <img height= "50rem" alt="JavaScript" src="https://user-images.githubusercontent.com/109265005/221436214-92d2f3aa-215c-4501-acab-23c3b6aff1cd.svg" />
 <img height= "50rem" alt="NodeJS" src="https://user-images.githubusercontent.com/109265005/221436733-fb3cae0c-8a0f-4c08-bd2a-6743ac439fe3.svg" />
 <img height= "50rem" alt="CSS3" src="https://user-images.githubusercontent.com/109265005/221436667-7649df5e-77ef-4843-8902-bc6588e1cacd.svg" />
