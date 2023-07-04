@@ -9,13 +9,6 @@
 </div>
 <br>
 
-<div align="center">
-   <a href="https://github.com/mandudiego">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandudiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandudiego&layout=compact&langs_count=6&theme=dark"/>
-</div>
-     
-<br>
 <h2 align="center"> Skills 🖥️ </h2>
 <div align="center">
 Java • JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
@@ -29,6 +22,15 @@ Java • JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
 <img height= "50rem" alt="mySQL" src="https://user-images.githubusercontent.com/109265005/221436911-c9913bc7-eaa6-4ed2-8e56-1870cebd3b7e.svg" />
   </p>
 </div>
+<br>
+
+<div align="center">
+   <a href="https://github.com/mandudiego">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandudiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandudiego&layout=compact&langs_count=6&theme=dark"/>
+</div>
+     
+<br>
 <br>
 
 <h2 align="center"> Sobre mim ⚙️</h2>
