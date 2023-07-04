@@ -1,20 +1,22 @@
-<h1> Olá! Meu nome é Diego Barreiro! 👋 </h1>
+<h1 align="center"> Olá! Meu nome é Diego Barreiro! 👋 </h1>
 
-<h2> Sou um Desenvolvedor Back-End em formação! 🖥️ </h2>
-<div> 
+<h2 align="center"> Sou um Desenvolvedor Back-End em formação! 🖥️ </h2>
+<div align="center"> 
   • Seja bem-vindo(a)!<br> 
   • Dev Back-End em formação com foco em Java. <br>
   • Desenvolvendo conhecimentos em: AWS e Docker. <br>
   • Em constante aprendizado! 
 </div>
-  <div align="center">
+
+<div align="center">
    <a href="https://github.com/mandudiego">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandudiego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandudiego&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandudiego&layout=compact&langs_count=6&theme=dark"/>
 </div>
+     
 <br>
-<h2> Skills 🖥️ </h2>
-<div>
+<h2 align="center"> Skills 🖥️ </h2>
+<div align="center">
 Java • JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
   <br>
 <img height= "50rem" alt="Java" src="https://img.icons8.com/?size=512&id=13679&format=png"/>
@@ -28,16 +30,16 @@ Java • JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
 </div>
 <br>
 
-<h2> Sobre mim ⚙️</h2>
-<div>
+<h2 align="center"> Sobre mim ⚙️</h2>
+<div align="center">
 • Sou graduando em Sistemas de Informação. 🧑🏻‍🔬 <br>
 • Resido em Paulínia - SP, região de Campinas. 📍 <br>
 • Tenho 3 anos de experiência atuando como Suporte Técnico. 👨‍💻<br>
 • Minhas principais características são a facilidade de aprendizado, comunicação e resolução de problemas. 📚 
 </div>
 <br>
-<h2> Contato ✉️</h2>
-<div> 
+<h2 align="center"> Contato ✉️</h2>
+<div align="center"> 
 <a href = "mailto:d.mandubarreiro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diego-mandu0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
