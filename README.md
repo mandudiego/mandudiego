@@ -7,7 +7,6 @@
   • Desenvolvendo conhecimentos em: AWS e Docker. <br>
   • Em constante aprendizado! 
 </div>
-<br>
 
 <h2 align="center"> Skills 🖥️ </h2>
 <div align="center">
