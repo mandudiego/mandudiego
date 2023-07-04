@@ -1,18 +1,17 @@
 <h1> Olá! Meu nome é Diego Barreiro! 👋 </h1>
 
 <h2> Sou um Desenvolvedor Back-End em formação! 🖥️ </h2>
-<div justify-content="center"> 
+<div> 
   • Seja bem-vindo(a)!<br> 
   • Dev Back-End em formação com foco em Java. <br>
   • Desenvolvendo conhecimentos em: AWS e Docker. <br>
   • Em constante aprendizado! 
 </div>
-<p>
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mandudiego&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Diego Barreiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandudiego&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-</div> -->
- 
+  <div align="center">
+   <a href="https://github.com/mandudiego">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandudiego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandudiego&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 <br>
 <h2> Skills 🖥️ </h2>
 <div>
