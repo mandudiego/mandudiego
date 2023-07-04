@@ -7,6 +7,7 @@
   • Desenvolvendo conhecimentos em: AWS e Docker. <br>
   • Em constante aprendizado! 
 </div>
+<br>
 
 <div align="center">
    <a href="https://github.com/mandudiego">
