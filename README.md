@@ -28,9 +28,6 @@ Java • JavaScript • NodeJS • CSS • HTML5 • Python • MySQL <p>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandudiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandudiego&layout=compact&langs_count=6&theme=dark"/>
 </div>
-     
-<br>
-<br>
 
 <h2 align="center"> Sobre mim ⚙️</h2>
 <div align="center">
