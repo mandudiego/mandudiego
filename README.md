@@ -3,7 +3,7 @@
 <h2 align="center"> Sou um Desenvolvedor Back-End em formação! 🖥️ </h2>
 <div align="center"> 
   • Seja bem-vindo(a)!<br> 
-  • Dev Back-End em formação com foco em Java. <br>
+  • Futuro Java Developer. <br>
   • Em constante aprendizado! 
 </div>
 
