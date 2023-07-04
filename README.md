@@ -11,7 +11,7 @@
 
 <div align="center">
    <a href="https://github.com/mandudiego">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandudiego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandudiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandudiego&layout=compact&langs_count=6&theme=dark"/>
 </div>
      
