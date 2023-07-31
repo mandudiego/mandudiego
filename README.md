@@ -1,9 +1,8 @@
 <h1 align="center"> Olá! Meu nome é Diego Barreiro! 👋 </h1>
 
-<h2 align="center"> Sou um Desenvolvedor Back-End em formação! 🖥️ </h2>
 <div align="center"> 
   • Seja bem-vindo(a)!<br> 
-  • Futuro Java Developer. <br>
+  • Futuro Backend Developer. <br>
   • Em constante aprendizado! 
 </div>
 
